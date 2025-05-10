@@ -2,6 +2,8 @@
 
 A machine learning-based web application that detects whether a message (SMS or email) is Spam or Ham using a Naive Bayes classifier. This project is built with Python, scikit-learn, and Streamlit, and is trained on a custom-labeled dataset combining the UCI SMS Spam Collection and hand-crafted messages.
 
+Check out my application: [click here](https://spam-ham-detection.streamlit.app/)
+
 ## 🧠 Model Overview
 
 - **Algorithm Used**: Naive Bayes (MultinomialNB)
