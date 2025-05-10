@@ -1,4 +1,4 @@
-#📩 Spam-Detection-Classifier
+# 📩 Spam-Detection-Classifier
 
 A machine learning-based web application that detects whether a message (SMS or email) is Spam or Ham using a Naive Bayes classifier. This project is built with Python, scikit-learn, and Streamlit, and is trained on a custom-labeled dataset combining the UCI SMS Spam Collection and hand-crafted messages.
 
